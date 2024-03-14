@@ -16,10 +16,9 @@
 - 📫 How to reach me **sumitpadalkar53@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<a href="https://linkedin.com/in/sumit padalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit padalkar" height="30" width="40" /></a>
 <a href="https://instagram.com/sumitpadalkar.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumitpadalkar.7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sumitpadalkar53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumitpadalkar53" height="30" width="40" /></a>
-</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
