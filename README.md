@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit6499" alt="sumit6499" /></a> </p>
 
-- 🔭 I’m currently working on [Vibify Music Streaming App](https://github.com/sumit6499/vibify-spotifyclone)
+- 🔭 I’m currently working on [CodeWaveCD](https://github.com/sumit6499/CodeWaveCD)
 
 - 🌱 I’m currently learning **System Designing and Distributed Systems**
 
