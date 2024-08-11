@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **System Designing and Distributed Systems**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Fullstack Development**
 
 - 📫 How to reach me **sumitpadalkar53@gmail.com**
 
